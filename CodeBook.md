@@ -5,11 +5,11 @@ in "UCI HAR Dataset" forlder. Original data can befount here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 According to Programming Assingment task, data analysis was as follows  
-1.Merged Train and Test data sets.
-2.Added columns with activity labelling and subject code (PersonCode)
-3.Properly named variable columns described in features.txt
-4.selected columns witn mean and std measurements
-5.Obtained a tidy data set with average values grouped by activites and subject
+1.Merged Train and Test data sets.  
+2.Added columns with activity labelling and subject code (PersonCode)  
+3.Properly named variable columns described in features.txt  
+4.selected columns witn mean and std measurements  
+5.Obtained a tidy data set with average values grouped by activites and subject  
 
 in the tidyData.txt variable names are:
 
