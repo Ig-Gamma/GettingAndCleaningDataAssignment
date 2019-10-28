@@ -9,7 +9,7 @@ working directory in "UCI HAR Dataset" folder.
 
 the script run_analysis.R
 
-reads data from X_train.txt, y_train.txt, subject_train.txt from the folder "train" and X_test.txt, y_test.txt, subject_test.txt from the folder test.
+reads data from X_train.txt, y_train.txt, subject_train.txt from the folder "train" and X_test.txt, y_test.txt, subject_test.txt from the folder "test".
 
 into Xtrain,Ytrain,PersonTrain and Xtest,Ytest,PersonTest respectively
 
