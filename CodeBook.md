@@ -1,4 +1,5 @@
-this is the CodeBook for tidyData.txt
+this is the CodeBook for tidyData.txt  
+
 Data set in tidyData.txt obtained with run_analysis.R using data set  
 in "UCI HAR Dataset" forlder. Original data can befount here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
